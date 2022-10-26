@@ -133,3 +133,6 @@ dmypy.json
 
 #Logs
 .out
+
+#SQL
+.sqlite3
